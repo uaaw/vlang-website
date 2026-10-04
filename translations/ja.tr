@@ -31,37 +31,11 @@ documentation
 tutorials
 入門ガイド
 -----
-faq
-よくある質問
------
 playground
 playground
 -----
 built_in_v
 Vを使用して作られたもの
------
-the_v_lang
-プログラミング言語 V
------
-v_slogan
-保守しやすい製品の開発をするために。シンプルかつ高速で安全なコンパイル型言語
------
-includes_binaries
-3 つのシステム向けのバイナリを同梱
------
-install_source
-または、ソースから V をインストール
------
-couple_seconds
-数秒で完了します
------
-wip_info
-V は、活発に開発が進められている初期段階の言語です。
-開発中の機能には $wip と表示しています。
-<br>
-このページとドキュメントに記載されている、それ以外の機能はすべて実装済みで、ソースコードも公開されています。
-<p>
-2019 年 12 月に予定されている V 1.0 のリリースまでに、$wip はすべてなくなる予定です。
 -----
 forum
 フォーラム
@@ -69,167 +43,11 @@ forum
 blog
 ブログ
 -----
-fast_compilation
-高速なコンパイル
------
-safety
-安全性
------
-performance
-パフォーマンス
------
 simple_language_for_maintainable_programs
 保守しやすいプログラムを作るためのシンプルな言語
 -----
-you_can_learn
-週末に
-<a target=_blank href='https://github.com/vlang/v/blob/master/doc/docs.md'>ドキュメント</a>をひととおり読めば、
-言語全体を学べます。ほとんどの場合、同じことをするための方法は一つだけです。
------
-this_results_in_simple
-そのため、コードはシンプルで読みやすく、保守しやすくなります。
------
-despite_being_simple
-V はシンプルでありながら、開発者に強力な機能を提供します。システムプログラミング、Web 開発、ゲーム開発、GUI、モバイル、科学技術計算、組み込み、ツール開発など、ほぼあらゆる分野で利用できます。
------
-v_is_similar_to_go
-V は Go にとてもよく似ています。Go を知っていれば、V の約 80% はすでに理解していることになります。
-Go と比べて V が改善している点：<a target=_blank href='https://vlang.io/compare#go'>vlang.io/compare#go</a>。
------
-download_for_macos
-macOS 版をダウンロード
------
-download_for_windows
-Windows 版をダウンロード
------
-download_for_linux
-Linux 版をダウンロード
------
-zero_deps
-依存関係のない 400 KB のコンパイラ
------
-c_translation
-C/C++ からの変換
------
-introduction
-はじめに
------
-comments
-コメント
------
-functions
-関数
------
-variables
-変数
------
-basic_types
-基本型
------
-strings
-文字列
------
-arrays
-配列
------
-maps
-マップ
------
-if
-if 文
------
-in_op
-in 演算子
------
-for_loop
-for ループ
------
-switch
-switch 文
------
-structs
-構造体
------
-access_mod
-アクセス修飾子
------
-methods
-メソッド
------
-pure_fns
-純粋関数
------
-high_fns
-高階関数
------
-constants
-定数
------
-modules
-モジュール
------
-interfaces
-インターフェース
------
-enums
-列挙型
------
-optionals_and_errors
-Option 型とエラー処理
------
-generics
-ジェネリクス
------
-concurrency
-並行処理
------
-decoding_json
-JSON のデコード
------
-testing
-テスト
------
-memory_management
-メモリ管理
------
-fast_comp1
-V は CPU コアあたり毎秒約 10 万〜120 万行のコードをコンパイルします。
------
-fast_comp2
-V は 0.15〜0.6 秒で自己コンパイルできます。
------
-fast_comp3
------
-fast_comp4
------
-no_null
-null なし
------
-latest_news
-最新ニュースと
------
-blog_posts
-ブログ記事
------
 what_developers_say
 開発者が語る V
------
-v_review_1
-V の開発チームは本当に素晴らしい仕事をしています。これほど速く進化する言語は見たことがありません。
-皆さん、寝ていないのではないでしょうか。V がこれからもシンプルで洗練された言語であり続け、明るい未来を迎えることを願っています。
-皆さんの尽力に感謝します。
------
-v_review_2
-一番驚いたのは、これほど多くのことが「そのまま動く」ということです。
-チャネルとクロージャのおかげで、C 関数の非同期コールバックをとても簡単に実装できました。
-ありがとうございます！ 😄
------
-v_review_3
-プログラミング歴は約 30 年です。昔は C/C++ や VB を少し、それから Delphi をかなり使っていました。
-その後は PHP/Ruby を 15 年以上使い、Bash や Python も使ってきました。最近、いろいろな理由からコンパイル型言語を
-使い始めたくなり、Rust、Go、ほかにもいくつか調べました。数週間前に偶然 V を知り、
-その習得しやすさにとても驚いています。V でコードを書くのが本当に楽しく、
-すでに十分に開発を進められていると感じます。今では小さな……を作ろうと考えているほどです。
 -----
 partners_sponsors
 パートナーとスポンサー
@@ -242,12 +60,6 @@ V は今も高速？
 -----
 built_in_v
 V で作られたもの
------
-book1
-V 初の紙の書籍！
------
-book2
-V の紙の書籍、第 2 弾！
 -----
 home_index_aab
 プログラミング言語 V
@@ -353,9 +165,6 @@ home_index_ade
 -----
 home_index_adf
 アプリケーションの状態を失わずにコードをライブリロード。アイデアを、もっとすばやく目に見える形に。
------
-home_index_adg
-ライブリロードを詳しく見る ↗
 -----
 home_index_adh
 Veb のブラウザライブリロード実演動画用の仮プレビュー
@@ -537,9 +346,6 @@ V の紙の書籍、第 2 弾 ↗
 home_shared_adb
 V のグッズストアへ ↗
 -----
-home_shared_adc
-オープンソース。志を、ともに。
------
 more_features
 その他の機能
 -----
@@ -684,12 +490,6 @@ home_content_abh
 home_content_abi
 続いて試すコマンド：
 -----
-home_content_abj
-設計はシンプル。機能はパワフル。
------
-home_content_aca
-言語が、開発の邪魔をしません。
------
 home_content_acb
 週末に
 -----
@@ -782,24 +582,6 @@ home_content_afa
 -----
 home_content_afb
 V では安全性のために、配列の境界チェックや GC による解放など、ある程度のオーバーヘッドが生じます。ただし、パフォーマンスを優先する場合は、これらの機能を無効化したり回避したりできます。
------
-home_content_afc
-高速なコンパイル
------
-home_content_afd
-V は毎秒約 8 万行（Clang バックエンド）、約 40 万行（x64 および tcc バックエンド）のコードをコンパイルします。
------
-home_content_afe
-（Apple M2、最適化なし）
------
-home_content_aff
-V 自身も V で書かれており、1 秒未満で自己コンパイルできます (
------
-home_content_afg
-MacBook Air M3 では 0.33 秒
------
-home_content_afh
-コンパイラの大部分はまだシングルスレッドで動作しているため、今後は 2〜3 倍の高速化が見込まれます！
 -----
 home_content_afi
 小さく、簡単にビルドできるコンパイラ
@@ -921,9 +703,6 @@ home_content_ajg
 home_content_ajh
 C++ から V への変換は、まだ初期段階です。
 -----
-home_content_aji
-コードのホットリロード
------
 home_content_ajj
 再コンパイルせずに、変更を即座に反映できます。
 -----
@@ -969,12 +748,6 @@ home_content_bbc
 home_content_bbd
 エンジンのスクリーンショット
 -----
-home_content_bbe
-軽量・高速なクロスプラットフォーム GUI ライブラリ
------
-home_content_bbf
-V UI でネイティブ UI アプリケーションを開発できます。クロスプラットフォームアプリをすばやく作るために、ブラウザを組み込む必要はもうありません。
------
 home_content_bbg
 V には、Qt や Flutter のように独自の描画を行いつつ、ネイティブの GUI ツールキットにできるだけ近づけた UI モジュールがあります。
 -----
@@ -996,12 +769,6 @@ github.com/vlang/ui
 home_content_bcc
 V と V UI で作られた、わずか 3 MB の Slack/Discord クライアント Volt：
 -----
-home_content_bcd
-画面 3
------
-home_content_bce
-簡単なクロスコンパイル
------
 home_content_bcf
 ソフトウェアのクロスコンパイルは、次のコマンドを実行するだけです：
 -----
@@ -1013,9 +780,6 @@ home_content_bch
 -----
 home_content_bci
 （現時点では、macOS 向けソフトウェアのコンパイルは macOS 上でのみ可能です。）
------
-home_content_bcj
-macOS 版の V を使って Windows 版の V をビルドし、生成された v.exe を Windows の仮想マシンでテスト：
 -----
 home_content_bda
 手間のかからないデプロイと依存関係管理、そして多様な環境での実行
@@ -1709,9 +1473,6 @@ V で構築。
 -----
 home_index_aha
 V UI は、フォームを視覚的にデザインし、V で構築できる WYSIWYG エディタを備えたネイティブ UI ライブラリです。
------
-home_index_ahb
-V UI を詳しく見る ↗
 -----
 home_index_ahc
 V UI のビジュアルエディタ
